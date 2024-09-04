@@ -1,5 +1,6 @@
 ---
 title: B64
+icon: fa-code
 ---
 
 B64 is an easy-to-use macOS application designed to quickly convert image files to Base64 encoding. With a simple drag-and-drop operation, you can convert any image file (including formats like JPEG, PNG, GIF, etc.) into its corresponding Base64 string. This functionality is particularly useful for tasks such as embedding image data in HTML, CSS, or JavaScript, or for transmitting images over the network.
